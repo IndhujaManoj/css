@@ -1,0 +1,27 @@
+body{
+    background-color: darkgray;
+    color: crimson;
+}
+input{
+    background-color:darkgrey;
+    color:darkgreen;
+}
+select{
+    background-color: rgb(141, 2, 2);
+}
+#form{
+    background-color: cadetblue;
+    color: brown;
+}
+.para{
+    background-color:dimgrey;
+    color:black
+    
+}
+#table{
+    background-color:steelblue;
+}
+button{
+    background-color: darkred;
+    color: aliceblue;
+}

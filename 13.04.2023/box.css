@@ -1,0 +1,27 @@
+.para1{
+    background-color: cornflowerblue;
+    margin: 1cm;
+    padding: 10px;
+    border: 2px solid black;
+
+}
+.para2{
+    background-color: aqua;
+    margin: 1cm;
+    padding: 10px;
+}
+.para3{
+    background-color: darkgray;
+    margin: 1cm;
+    padding: 10px;/*margin*/
+}
+
+h1{
+ color: darkblue;   
+}
+body{
+    border: 2px;
+    background-color: darkolivegreen;
+border: 3px solid black;
+margin: 1cm;
+}
